@@ -31,7 +31,7 @@ const DATA = {
       location: "Minneapolis, MN",
       title: "Custom Track",
       dates: "2024 – Present",
-      details: ["Dean’s List (Spring 2024)", "Cumulative GPA: 3.15"],
+      details: ["Dean’s List (Spring 2024)", "Cumulative GPA: 3.18"],
     },
     {
       school: "University of Minnesota – College of Science & Engineering",
