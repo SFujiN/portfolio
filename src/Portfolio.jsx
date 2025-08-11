@@ -24,7 +24,7 @@ const DATA = {
   phone: "Provided upon request",
   github: "https://github.com/SFujiN",
   linkedin: "https://www.linkedin.com/in/donald-huynh338",
-  resumeUrl: "#", // replace with your hosted PDF if you have one
+  resumeUrl: "/Donald_Huynh_Resume_2025.pdf", // replace with your hosted PDF if you have one
   education: [
     {
       school: "University of Minnesota – College of Continuing & Professional Studies",
