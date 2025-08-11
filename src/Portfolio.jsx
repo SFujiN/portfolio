@@ -169,7 +169,7 @@ export default function Portfolio() {
             <a aria-label="LinkedIn" href={DATA.linkedin} target="_blank" rel="noreferrer" className="p-2 rounded hover:bg-neutral-100">
               <Linkedin className="h-5 w-5" />
             </a>
-            <a aria-label="Resume" href={DATA.resumeUrl} className="p-2 rounded hover:bg-neutral-100">
+            <a aria-label="Resume" href={DATA.resumeUrl} target="_blank" rel="noopener noreferrer" className="p-2 rounded hover:bg-neutral-100">
               <FileText className="h-5 w-5" />
             </a>
           </div>
