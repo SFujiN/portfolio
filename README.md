@@ -1,6 +1,8 @@
 # My Portfolio
 
-This is what a quick portfolio for work purposes.
+This is a quick portfolio for work purposes.
+Link  
+https://donaldhuynh-portfolio.netlify.app/
 
 # React + Vite
 
